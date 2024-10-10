@@ -16,15 +16,5 @@
     "test",
     "bower.json",
     "package.json"
-  ],
-  "dependencies": {
-    "purescript-exists": "^6.0.0",
-    "purescript-newtype": "^5.0.0",
-    "purescript-prelude": "^6.0.0",
-    "purescript-transformers": "^6.0.0"
-  },
-  "devDependencies": {
-    "purescript-console": "^6.0.0",
-    "purescript-effect": "^4.0.0"
-  }
+  ]
 }

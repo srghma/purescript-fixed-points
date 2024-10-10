@@ -1,0 +1,24 @@
+package:
+  name: fixed-points
+  publish:
+    license: Apache-2.0
+    version: 7.0.0
+    location:
+      githubOwner: purescript-contrib
+      githubRepo: purescript-fixed-points
+  dependencies:
+    - control
+    - exists
+    - newtype
+    - prelude
+    - transformers
+    - tuples
+  test:
+    main: Test.Main
+    dependencies:
+      - console
+      - effect
+workspace:
+  extraPackages: {}
+  packageSet:
+    registry: 60.5.0
