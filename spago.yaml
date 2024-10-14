@@ -2,7 +2,7 @@ package:
   name: fixed-points
   publish:
     license: Apache-2.0
-    version: 7.0.0
+    version: 8.0.0
     location:
       githubOwner: purescript-contrib
       githubRepo: purescript-fixed-points
